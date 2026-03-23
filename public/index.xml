@@ -6,8 +6,22 @@
     <description>Recent content on My New Hugo Project</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 25 Feb 2026 12:40:17 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 19:52:50 +0530</lastBuildDate>
     <atom:link href="https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understanding Logic behind Numbers &amp; Problems</title>
+      <link>https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/posts/unit2/</link>
+      <pubDate>Mon, 23 Mar 2026 19:52:50 +0530</pubDate>
+      <guid>https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/posts/unit2/</guid>
+      <description>&lt;p&gt;I already knew a little about binary from my first semester, so this unit didn’t feel completely new. But earlier I was mostly just solving questions step by step without really understanding what was going on.&#xA;This unit also included number systems like decimal and hexadecimal, and topics like modeling, abstraction and optimization. At first it felt like a lot of things together, so I got a bit confused.&#xA;This time things felt different. In the beginning I was still making mistakes, especially in binary to decimal. Sometimes I missed a power or did a wrong calculation. It was a bit annoying honestly. But after doing more problems, it slowly started making sense.&#xA;Modeling and abstraction were new for me. At first I didn’t understand why we need to ignore details. It felt confusing. But when the chai example was explained, it became easier. After that I could understand how simplifying things actually helps.&#xA;Optimization problems were also not easy. In questions like knapsack, I got stuck and didn’t know what to choose. I even got wrong answers a few times. Later I talked with my friends and tried again, then I understood that these problems need more thinking and patience.&#xA;Overall, I feel I improved in this unit. Now I try to understand what is happening instead of just following steps.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rethinking data and Information</title>
+      <link>https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/posts/unit1/</link>
+      <pubDate>Mon, 23 Mar 2026 19:47:34 +0530</pubDate>
+      <guid>https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/posts/unit1/</guid>
+      <description>&lt;p&gt;In this unit we learned about data, information, knowledge and wisdom using the DIKW model. I had heard these terms before, but I never really thought about them properly. At first I thought it was a very simple concept because it looked like a clear step-by-step process.&#xA;But after some classes, I started getting confused, especially between data and information. Sometimes both felt almost the same to me. In some examples shown in class, the same data was presented in different ways, and it actually changed how we understood it. That was something new for me.&#xA;I also used to think that if we have more data, we will automatically get better knowledge. But after learning this unit, I don’t think that is always true. It depends more on how we understand and use the information. Just having data is not enough.&#xA;In class I didn’t fully understand everything at first, but later when I discussed it with my friends, it became clearer. We also had slightly different opinions, which made me think more about the topic.&#xA;In the end, I feel my thinking has changed a bit. Now I try to understand things more carefully instead of just accepting whatever is given.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Introduction</title>
       <link>https://github.com/vipuljha25ug-crypto/vipuljha25ug-crypto.github.io/posts/introduction/</link>
