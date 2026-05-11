@@ -1,7 +1,7 @@
 +++
 date = '2026-04-13T23:34:37+05:30'
 draft = false
-title = 'Reflection on creating a Chatbot using Typebot'
+title = 'Reflection on creating a Chatbot using Typebot and Meta Dashboard'
 +++
 I have learned a lot through the development of the Chatbot and the Meta Dashboard project which helped advance my skills in both technical and problem-solving areas. Originally I had a basic knowledge of both web development and how to connect APIs, through working on these projects I have learned how many different types of technologies work collectively to create a functioning system with many working parts.
 
