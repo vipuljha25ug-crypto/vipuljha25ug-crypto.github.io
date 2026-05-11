@@ -3,6 +3,7 @@ date = '2026-04-13T23:34:37+05:30'
 draft = false
 title = 'Reflection on creating a Chatbot using Typebot and Meta Dashboard'
 +++
+
 I have learned a lot through the development of the Chatbot and the Meta Dashboard project which helped advance my skills in both technical and problem-solving areas. Originally I had a basic knowledge of both web development and how to connect APIs, through working on these projects I have learned how many different types of technologies work collectively to create a functioning system with many working parts.
 
 I have also learned through these projects about how important interactivity with the user is in today's applications and how the ease of access is important when designing an interface for a user to communicate with a Chatbot to create a smooth transition from one task to the next. One of the challenges I had with developing the Chatbot was creating responses to the user's request correctly and fluently. Although I was successful with my testing and debugging by using logical thought process and understanding how error events are handled in software development; I also learned a lot about frontend technologies and how to use APIs to both consume and present data as a dynamic response.
